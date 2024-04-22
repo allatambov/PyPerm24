@@ -27,3 +27,16 @@
 устройство ввода и вывода в Python и быть знакомыми с методами .split() и .join(). Для этого можно 
 прочитать [конспект](https://github.com/allatambov/ICEF24/blob/main/02-input-output-format.ipynb) лекции ''Ввод-вывод и форматирование строк'', [конспект](https://github.com/allatambov/PyAll23/blob/main/06-split-join.ipynb) лекции ''Методы .split() и .join()'' и [разбор](https://github.com/allatambov/PyPerm24/blob/main/input-output-fragments.ipynb) задач по этой теме.
 
+### Лабораторная работа 3 (дедлайн 27 апреля 11:30)
+
+Лабораторная работа 3: [ipynb](https://github.com/allatambov/PyPerm24/blob/main/pyperm-lab03.ipynb), сдавать [сюда](https://www.dropbox.com/request/lMj5sX1geWbkgwC5CPcQ).
+
+Для выполнения лабораторной работы помимо материалов недели 3 необходимо уметь писать<br>
+пользовательские функции, lambda-функции и сочетать их с другими функциями Python. Для этого можно:
+
+* Прослушать материал [темы 8](https://edu.hse.ru/course/view.php?id=133389&section=8) ''Функции'' (достаточно первого раздела) онлайн-курса «Python как иностранный».
+* Прочитать [конспект](https://github.com/allatambov/PyPerm23/blob/main/functions-short.ipynb) лекции ''Функции'' (для желающих – более подробная [лекция](https://nbviewer.org/github/ischurov/pythonhse/blob/master/Lecture%204.ipynb) И.В.Щурова).
+* Прочитать [конспект](https://github.com/allatambov/ICEF24/blob/main/lambda-functions.ipynb) по lambda-функциям.
+
+
+
