@@ -33,7 +33,7 @@
 ### Неделя 3. Словари, массивы NumPy, датафреймы Pandas
 
 * Словари и массивы, последовательности и датафреймы Pandas ([03-dicts-pandas.ipynb](https://github.com/allatambov/PyPerm24/blob/main/03-dicts-pandas.ipynb)).
-* Введение в датафреймы pandas: загрузка и описание данных (ipynb).
+* Введение в датафреймы pandas: загрузка и описание данных ([03-intro-pandas.ipynb](https://github.com/allatambov/PyPerm24/blob/main/03-intro-pandas.ipynb)).
 
 Дополнительно:
 
