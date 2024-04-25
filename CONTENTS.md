@@ -14,9 +14,9 @@
 
 ### Неделя 1. Индексируемые структуры данных в Python
 
-* «Сырые» ipynb-файлы с занятий: `class01-group01.ipynb`, `class01-group02.ipynb`, `class01-group03.ipynb`, `class01-group04.ipynb`.
-* Обзор индексируемых структур данных в Python: строки, кортежи, списки (`01-types-structures.ipynb`).
-* Цикл for и его аналоги: списковые включения и функция map()  (`01-for-and-friends.ipynb`).
+* «Сырые» ipynb-файлы с занятий: [class01-group01.ipynb](https://github.com/allatambov/PyPerm24/blob/main/class01-group01.ipynb), [class01-group02.ipynb](https://github.com/allatambov/PyPerm24/blob/main/class01-group02.ipynb), [class01-group03.ipynb](https://github.com/allatambov/PyPerm24/blob/main/class01-group03.ipynb), [class01-group04.ipynb](https://github.com/allatambov/PyPerm24/blob/main/class01-group04.ipynb).
+* Обзор индексируемых структур данных в Python: строки, кортежи, списки ([01-types-structures.ipynb](https://github.com/allatambov/PyPerm24/blob/main/01-types-structures.ipynb)).
+* Цикл for и его аналоги: списковые включения и функция map()  ([01-for-and-friends.ipynb](https://github.com/allatambov/PyPerm24/blob/main/01-for-and-friends.ipynb)).
 
 Дополнительно:
 
@@ -26,6 +26,19 @@
 
 ### Неделя 2. Знакомство с массивами NumPy
 
-* «Сырые» ipynb-файлы с занятий: `class02-slot01.ipynb`, `class02-slot02.ipynb`.
-* Списки vs массивы (`02-lists-arrays.ipynb`).
-* Описание выборки, сохранённой в массив (`02-descriptives.ipynb`).
+* «Сырые» ipynb-файлы с занятий: [class02-slot01.ipynb](https://github.com/allatambov/PyPerm24/blob/main/class02-slot01.ipynb), [class02-slot02.ipynb](https://github.com/allatambov/PyPerm24/blob/main/class02-slot02.ipynb).
+* Списки vs массивы ([02-lists-arrays.ipynb](https://github.com/allatambov/PyPerm24/blob/main/02-lists-arrays.ipynb)).
+* Описание выборки, сохранённой в массив ([02-descriptives.ipynb](https://github.com/allatambov/PyPerm24/blob/main/02-descriptives.ipynb)).
+
+### Неделя 3. Словари, массивы NumPy, датафреймы Pandas
+
+* Словари и массивы, последовательности и датафреймы Pandas ([03-dicts-pandas.ipynb](https://github.com/allatambov/PyPerm24/blob/main/03-dicts-pandas.ipynb)).
+* Введение в датафреймы pandas: загрузка и описание данных (ipynb).
+
+Дополнительно:
+
+* Официальная [документация](https://pandas.pydata.org/docs/) pandas.
+* PEP8: [стандарты](https://peps.python.org/pep-0008/) оформления кода.
+
+
+
