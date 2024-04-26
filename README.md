@@ -38,5 +38,18 @@
 * Прочитать [конспект](https://github.com/allatambov/PyPerm23/blob/main/functions-short.ipynb) лекции ''Функции'' (для желающих – более подробная [лекция](https://nbviewer.org/github/ischurov/pythonhse/blob/master/Lecture%204.ipynb) И.В.Щурова).
 * Прочитать [конспект](https://github.com/allatambov/ICEF24/blob/main/lambda-functions.ipynb) по lambda-функциям.
 
+### Лабораторная работа 4 (дедлайн 4 мая 23:59)
+
+Лабораторная работа 4: [ipynb](https://github.com/allatambov/PyPerm24/blob/main/pyperm-lab04.ipynb), сдавать [сюда](https://www.dropbox.com/request/AxhFQhobBh6ARlZ3HUpP).
+
+Для выполнения лабораторной работы необходимо самостоятельно познакомиться с обработкой txt-файлов.<br>
+Для этого (на выбор) можно:
+
+* Прослушать [материал](https://edu.hse.ru/course/view.php?id=133389&section=9) темы 9 ''Текстовые файлы и таблицы'' онлайн-курса «Python как иностранный».
+* Прочитать [конспект](https://github.com/allatambov/PyPolit2023/blob/main/txt-files.ipynb) лекции ''Чтение и запись txt-файлов'' (txt-файл [здесь](https://github.com/allatambov/PyPolit2023/blob/main/intro.txt)).
+
+Также могут пригодиться дополнительные материалы по методам на строках из недели 1.
+
+
 
 
