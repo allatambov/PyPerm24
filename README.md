@@ -50,6 +50,19 @@
 
 Также могут пригодиться дополнительные материалы по методам на строках из недели 1.
 
+### Лабораторная работа 5 (дедлайн 18 мая 11:30)
+
+Лабораторная работа 5: [ipynb](https://github.com/allatambov/PyPerm24/blob/main/pyperm-lab05.ipynb), сдавать [сюда](https://www.dropbox.com/request/mjNOgwMKVH7B2jT0hzVA).
+
+Для выполнения лабораторной работы необходимо вспомнить о словарях (неделя 3),
+при необходимости ознакомиться со следующими материалами:
+
+* [Конспект](https://github.com/allatambov/ICEF24/blob/main/dicts.ipynb) по словарям.
+* Pythontutor: [словари](https://pythontutor.ru/lessons/dicts/), w3schools: [dictionaries](https://www.w3schools.com/python/python_dictionaries.asp).
+
+## Домашние задания
+
+* Домашнее задание №1: [ipynb](https://github.com/allatambov/PyPerm24/blob/main/hw01.ipynb), сдавать [сюда](https://www.dropbox.com/request/HlHlDJIqODEAgpl1ba1H) до 20 мая 23:59 (по Перми).
 
 
 
