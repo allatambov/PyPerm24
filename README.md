@@ -63,6 +63,8 @@
 ## Домашние задания
 
 * Домашнее задание №1: [ipynb](https://github.com/allatambov/PyPerm24/blob/main/hw01.ipynb), сдавать [сюда](https://www.dropbox.com/request/HlHlDJIqODEAgpl1ba1H) до 20 мая 23:59 (по Перми).
+* Домашнее задание №2: [ipynb](https://github.com/allatambov/PyPerm24/blob/main/hw02.ipynb), сдавать [сюда](https://www.dropbox.com/request/5olhTQGFBaDbMRF8PFUw) до 10 июня 23:59 (по Перми).
+
 
 
 
