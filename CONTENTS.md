@@ -72,10 +72,10 @@
 
 ### Неделя 7. Иерархический кластерный анализ
 
-* Файлы с данными: [Baltimore_data.csv](https://github.com/allatambov/WebScrape24/blob/main/Baltimore_data.csv), [Percent_of_Area_Covered_by_Trees.geojson](https://github.com/allatambov/WebScrape24/blob/main/Percent_of_Area_Covered_by_Trees.geojson), [coffee_and_code.csv](https://github.com/allatambov/WebScrape24/blob/main/coffee_and_code.csv)
-* Иерархический кластерный анализ: введение: [07-cluster00.ipynb](https://github.com/allatambov/WebScrape24/blob/main/07-cluster00.ipynb).
-* Практикум по иерархическому кластерному анализу (количественные данные): [07-cluster01.ipynb](https://github.com/allatambov/WebScrape24/blob/main/07-cluster01.ipynb).
-* Практикум по иерархическому кластерному анализу (качественные данные): [07-cluster02.ipynb](https://github.com/allatambov/WebScrape24/blob/main/07-cluster02.ipynb).
+* Файлы с данными: [Baltimore_data.csv](https://github.com/allatambov/PyPerm24/blob/main/Baltimore_data.csv), [Percent_of_Area_Covered_by_Trees.geojson](https://github.com/allatambov/PyPerm24/blob/main/Percent_of_Area_Covered_by_Trees.geojson), [coffee_and_code.csv](https://github.com/allatambov/PyPerm24/blob/main/coffee_and_code.csv)
+* Иерархический кластерный анализ: введение: [07-cluster00.ipynb](https://github.com/allatambov/PyPerm24/blob/main/07-cluster00.ipynb).
+* Практикум по иерархическому кластерному анализу (количественные данные): [07-cluster01.ipynb](https://github.com/allatambov/PyPerm24/blob/main/07-cluster01.ipynb).
+* Практикум по иерархическому кластерному анализу (качественные данные): [07-cluster02.ipynb](https://github.com/allatambov/PyPerm24/blob/main/07-cluster02.ipynb).
 
 
 
