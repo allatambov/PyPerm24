@@ -42,8 +42,13 @@
 
 ### Неделя 4. Операции с датафреймами Pandas
 
+* Файлы с данными: [Salaries.csv](https://github.com/allatambov/PyPerm24/blob/main/Salaries.csv), []().
 * Основные операции с датафреймами Pandas ([04-pandas-main.ipynb](https://github.com/allatambov/PyPerm24/blob/main/04-pandas-main.ipynb)).
 * Практикум по Pandas ([04-pandas-practice.ipynb](https://github.com/allatambov/PyPerm24/blob/main/04-pandas-practice.ipynb)), решения ([04-pandas-practice-solutions.ipynb](https://github.com/allatambov/PyPerm24/blob/main/04-pandas-practice-solutions.ipynb)).
+
+Дополнительно:
+
+* [Цвета](https://matplotlib.org/stable/gallery/color/named_colors.html) в matplotlib, [палитра](https://g.co/kgs/qFwddL2) выбора цветов от Google, [ресурс](https://colorscheme.ru/color-names.html) с богатым запасов цветов.
 
 ### Неделя 5. Работа с API
 
@@ -62,8 +67,9 @@
 
 * Введение в управление браузером с Selenium и запросы XPATH ([ipynb](https://github.com/allatambov/ICEF24/blob/main/icef-practice06-02-solutions.ipynb)).
 * Обработка динамических таблиц с Selenium ([ipynb](https://github.com/allatambov/ICEF24/blob/main/icef-practice07-01_solutions.ipynb)).
-* Скроллинг с Selenium на примере ВКонтакте ([ipynb](https://github.com/allatambov/WebScrape24/blob/main/psy-practice06-02-solutions.ipynb))
+* Скроллинг с Selenium на примере ВКонтакте ([ipynb](https://github.com/allatambov/WebScrape24/blob/main/psy-practice06-02-solutions.ipynb)).
+* Скачивание файлов с Selenium ([ipynb](https://github.com/allatambov/WebScrape24/blob/main/psy-practice07-02.ipynb)).
 
-  
+### Неделя 7. 
 
 
