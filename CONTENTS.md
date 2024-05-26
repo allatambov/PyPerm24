@@ -40,5 +40,30 @@
 * Официальная [документация](https://pandas.pydata.org/docs/) pandas.
 * PEP8: [стандарты](https://peps.python.org/pep-0008/) оформления кода.
 
+### Неделя 4. Операции с датафреймами Pandas
+
+* Основные операции с датафреймами Pandas ([04-pandas-main.ipynb](https://github.com/allatambov/PyPerm24/blob/main/04-pandas-main.ipynb)).
+* Практикум по Pandas ([04-pandas-practice.ipynb](https://github.com/allatambov/PyPerm24/blob/main/04-pandas-practice.ipynb)), решения ([04-pandas-practice-solutions.ipynb](https://github.com/allatambov/PyPerm24/blob/main/04-pandas-practice-solutions.ipynb)).
+
+### Неделя 5. Работа с API
+
+* [Документация](https://dev.vk.com/ru/api/api-requests) API ВКонтакте.
+* Практикум по работе с API ВКонтакте ([05-vk-practice.ipynb](https://github.com/allatambov/PyPerm24/blob/main/05-vk-practice.ipynb)), решения ([05-vk-practice-solutions.ipynb](https://github.com/allatambov/PyPerm24/blob/main/05-vk-practice-solutions.ipynb)).
+
+### Неделя 6. Введение в парсинг HTML с BeautifulSoup
+
+* Введение в HTML: [слайды](https://github.com/allatambov/PyPerm24/blob/main/Intro_HTML.pdf).
+* [Тьюториал](https://www.w3schools.com/html/html_intro.asp) по основам HTML от w3schools.
+* Практикум по парсингу HTML ([06-html-practice.ipynb](https://github.com/allatambov/PyPerm24/blob/main/06-html-practice.ipynb)), решения ([06-html-practice-solutions.ipynb](https://github.com/allatambov/PyPerm24/blob/main/06-html-practice-solutions.ipynb)).
+* Обработка таблиц внутри HTML с Pandas ([06-html-tables.ipynb](https://github.com/allatambov/PyPerm24/blob/main/06-html-tables.ipynb)).
+* Неофициальная [документация](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) BeautifulSoup.
+
+Дополнительно:
+
+* Введение в управление браузером с Selenium и запросы XPATH ([ipynb](https://github.com/allatambov/ICEF24/blob/main/icef-practice06-02-solutions.ipynb)).
+* Обработка динамических таблиц с Selenium ([ipynb](https://github.com/allatambov/ICEF24/blob/main/icef-practice07-01_solutions.ipynb)).
+* Скроллинг с Selenium на примере ВКонтакте ([ipynb](https://github.com/allatambov/WebScrape24/blob/main/psy-practice06-02-solutions.ipynb))
+
+  
 
 
