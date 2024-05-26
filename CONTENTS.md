@@ -42,7 +42,7 @@
 
 ### Неделя 4. Операции с датафреймами Pandas
 
-* Файлы с данными: [Salaries.csv](https://github.com/allatambov/PyPerm24/blob/main/Salaries.csv), []().
+* Файлы с данными: [Salaries.csv](https://github.com/allatambov/PyPerm24/blob/main/Salaries.csv), [final.xlsx](https://github.com/allatambov/PyPerm24/blob/main/final.xlsx).
 * Основные операции с датафреймами Pandas ([04-pandas-main.ipynb](https://github.com/allatambov/PyPerm24/blob/main/04-pandas-main.ipynb)).
 * Практикум по Pandas ([04-pandas-practice.ipynb](https://github.com/allatambov/PyPerm24/blob/main/04-pandas-practice.ipynb)), решения ([04-pandas-practice-solutions.ipynb](https://github.com/allatambov/PyPerm24/blob/main/04-pandas-practice-solutions.ipynb)).
 
@@ -70,6 +70,11 @@
 * Скроллинг с Selenium на примере ВКонтакте ([ipynb](https://github.com/allatambov/WebScrape24/blob/main/psy-practice06-02-solutions.ipynb)).
 * Скачивание файлов с Selenium ([ipynb](https://github.com/allatambov/WebScrape24/blob/main/psy-practice07-02.ipynb)).
 
-### Неделя 7. 
+### Неделя 7. Иерархический кластерный анализ
+
+* Иерархический кластерный анализ: введение: [07-cluster00.ipynb](https://github.com/allatambov/WebScrape24/blob/main/07-cluster00.ipynb).
+* Практикум по иерархическому кластерному анализу (количественные данные): [07-cluster01.ipynb](https://github.com/allatambov/WebScrape24/blob/main/07-cluster01.ipynb).
+* Практикум по иерархическому кластерному анализу (качественные данные): [07-cluster02.ipynb](https://github.com/allatambov/WebScrape24/blob/main/07-cluster02.ipynb).
+
 
 
